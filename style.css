@@ -1,0 +1,27 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status {
+    font-size: 1.5em
+}
+.btns {
+    font-size: 1.17em;
+    width: 180px;
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    border: solid 5px mediumturquoise;
+    margin-top: 40px;
+}
+hr {
+    border-top: solid 1px #5bc0de;
+    margin: 20px 100px 0px 100px
+}
